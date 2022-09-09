@@ -1,4 +1,4 @@
-# Play FNF Undertale UNBLOCKED [HERE!](https://superteamxp.github.io/FNF-Undertale-Web/)
+# Play FNF Undertale [HERE!](https://cyclokid.github.io/fnf-undertale/)
 
 This HTML5 port is property of SuperTeamXP
 
